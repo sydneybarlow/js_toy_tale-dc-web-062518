@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 19
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 20
     },
     {
       "id": 3,
@@ -34,7 +34,7 @@
       "id": 6,
       "name": "Bo Peep",
       "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
+      "likes": 9
     },
     {
       "id": 7,
@@ -47,6 +47,42 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Teddy",
+      "image": "http://dimg.dillards.com/is/image/DillardsZoom/zoom/starting-out-10-bear-plush-toy/05151397_zi_brown.jpg",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "Monkey",
+      "image": "http://p.globalsources.com/IMAGES/PDT/BIG/063/B1155596063.jpg",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "Dino",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDHLSMWRHIjv2qx4ntOF9WhGWP1fQSeTj6qFMOl2qQi4HblcSY",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "name": "Iron Man",
+      "image": "https://c1-ebgames.eb-cdn.com.au/merchandising/images/packshots/1c4e904057cb4454afa6483c3b75237a_Large.png",
+      "likes": 0,
+      "id": 12
+    },
+    {
+      "name": "Giraffe",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41j7sUcAvwL._SY300_QL70_.jpg",
+      "likes": 0,
+      "id": 13
+    },
+    {
+      "name": "Unicorn",
+      "image": "https://jooinn.com/images/toys-7.jpg",
+      "likes": 0,
+      "id": 17
     }
   ]
 }
